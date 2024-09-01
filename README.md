@@ -4,6 +4,7 @@ Predict outcomes of T20 cricket matches
 # AmEx T20 Match Prediction Challenge
 
 ## Table of Contents
+
 1. [Introduction](#introduction)
 2. [Challenge Overview](#challenge-overview)
 3. [Data Description](#data-description)
@@ -12,11 +13,16 @@ Predict outcomes of T20 cricket matches
    - [Objective Function](#objective-function)
    - [Sampling](#sampling)
    - [Feature Engineering](#feature-engineering)
+   - [Feature Selection](#feature-selection)
    - [Modeling Technique](#modeling-technique)
    - [Model Performance](#model-performance)
 6. [Observations & Inferences](#observations--inferences)
-7. [Feature Engineering & Selection](#feature-engineering--selection)
+7. [Other Techniques](#other-techniques)
+   - [Principal Component Analysis (PCA)](#principal-component-analysis-pca)
+   - [Meta-Modeling Approach](#meta-modeling-approach)
 8. [Possible Improvements](#possible-improvements)
+
+
 
 ## Introduction
 
